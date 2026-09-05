@@ -71,4 +71,7 @@ dependencies {
     // For Serialization
     implementation(libs.kotlinx.serialization.json)
 
+    //Timber
+    implementation(libs.timber)
+
 }
