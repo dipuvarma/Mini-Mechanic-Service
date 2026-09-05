@@ -1,4 +1,4 @@
-package com.dipuguide.minimechanicservice.ui.theme
+package com.dipuguide.minimechanicservice.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
